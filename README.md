@@ -1,3 +1,3 @@
-#Applied-AI-CodaLab
+# Applied-AI-CodaLab
 
 Configuration files for CodaLab setup
