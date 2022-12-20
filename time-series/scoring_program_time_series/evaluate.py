@@ -20,7 +20,7 @@ def read_predictions(submission_file):
 # input_dir = sys.argv[1]
 # output_dir = sys.argv[2]
 
-# # debugging
+# debugging
 input_dir = "../sample/input"
 output_dir = "../sample/output"
 
@@ -58,7 +58,7 @@ if os.path.isdir(submit_dir) and os.path.isdir(truth_dir):
         rmse = math.sqrt(mse)
         output_file.write("RMSE:{0}\n".format(rmse))
 
-    # # debugging
-    # print("RMSE:{0}".format(rmse))
+    # debugging
+    print("RMSE:{0}".format(rmse))
 
     output_file.close()
