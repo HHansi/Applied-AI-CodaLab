@@ -234,3 +234,15 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+/practice/reference_data/
+/time-series/reference_data/
+/time-series/sample-original/
+/nlp/reference_data/
+/nlp/data/test-baseline.csv
+/nlp/sample_nlp/
+/image-processing/data/test-baseline.csv
+/image-processing/reference_data/
+/image-processing/submission-baseline.json
+/dl-optimisation/data/test-baseline.csv
+/dl-optimisation/reference_data/
+/dl-optimisation/submission-baseline.json
