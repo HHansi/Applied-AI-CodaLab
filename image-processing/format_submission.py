@@ -3,7 +3,7 @@ import json
 
 import pandas as pd
 
-test_file_path = "data/test.csv"
+test_file_path = "data/test-predictions.csv"
 df_test = pd.read_csv(test_file_path)
 df_test = df_test[["id", "prediction"]]
 
