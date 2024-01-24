@@ -8,5 +8,5 @@ formatted as follows.
 {"id": 1, "prediction": "cat"}<br>
 ...
 
-A sample file is available [here](). 
+A sample file is available [here](https://github.com/HHansi/Applied-AI-CodaLab/blob/master/image-processing/submission.json). 
 Also, make sure that the index order in the submission file is the same as the order in the original test data. 
