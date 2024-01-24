@@ -8,5 +8,5 @@ formatted as follows.
 {"prediction": 148.0821}<br>
 ...
 
-A sample file is available [here](). 
+A sample file is available [here](https://github.com/HHansi/Applied-AI-CodaLab/blob/master/time-series/submission.json). 
 Also, make sure that the index order in the submission file is the same as the order in the original test data. 
