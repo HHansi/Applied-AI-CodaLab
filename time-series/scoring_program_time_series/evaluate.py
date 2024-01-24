@@ -51,7 +51,7 @@ if os.path.isdir(submit_dir) and os.path.isdir(truth_dir):
     predictions = read_predictions(submission_answer_file)
 
     if len(actuals) != len(predictions):
-        raise IndexError("Number of entries in the submission.json do not match with the ground truth entry count!")
+        raise IndexError("Number of entries in the submission.json does not match the test data entry count!")
     # evaluate
     else:
         mse = mean_squared_error(actuals, predictions)

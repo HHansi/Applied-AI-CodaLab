@@ -2,7 +2,7 @@
 
 import json
 
-predictions = [141.6638, 148.0821, 152.7391, 150.4859, 164.362]
+predictions = [141.6638, 141.6638, 142.6638, 141.6638, 141.6638]
 
 data = []
 for pred in predictions:
